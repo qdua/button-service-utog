@@ -7,7 +7,8 @@
 
 ## Приклад
 
-  <img src="screen-button-service-utog.png" alt="Кнопки Сервіс УТОГ" width="300">
+  <img src="screen-button-service-utog.png" alt="Сервіс УТОГ" width="300">
+  <img src="screen-button-service-utog-open.png" alt="Кнопки Сервіс УТОГ" width="300">
 
 
 ## Як підключити
