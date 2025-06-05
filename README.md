@@ -5,7 +5,7 @@
 
   <img src="http://utog.org/assets/uploads/images/inbox/subtn.png" alt="Кнопки Сервіс УТОГ" width="200">
 
-## Взірець
+## Приклад
 
   <img src="screen-button-service-utog.png" alt="Кнопки Сервіс УТОГ" width="300">
 
